@@ -7,5 +7,5 @@ Kevin Truong
 2.Given this, this would be a good thing to make unit tests for. This likely required a simple check to see how they handle inputs that are more than 80 characters. Some relevent ideas to test could be does it actually limit at 80 and what happens after 80.
 
 ## Websites:
-[Expose](https://azuk132435.github.io/Lab5_Starter/expose.html)
+[Expose](https://azuk132435.github.io/Lab5_Starter/expose.html) <br>
 [Explore](https://azuk132435.github.io/Lab5_Starter/explore.html)
