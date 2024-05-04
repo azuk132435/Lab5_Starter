@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 name: Unit Tests # name of the test
 
 on: [push] # the Github Action will activate "on" the event that you "push" to the repo
@@ -12,6 +11,5 @@ jobs: # the things being executed
         run: npm install
       - name: Unit Test
         run: npm test ./__tests__/sum.test.js # the actual testing line
-=======
 
->>>>>>> 88cec9c527890b6102f849d63396ef69f5ca94a7
+
